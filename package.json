@@ -1,0 +1,14 @@
+{
+  "name": "mern-doctorappointment",
+  "version": "1.0.0",
+  "description": "A full-stack MERN (MongoDB, Express, React, Node.js) web application designed for hospitals and clinics to efficiently manage patient appointments, emergency slots, and waiting lists.",
+  "main": "index.js",
+  "scripts": {
+    "build" :"npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
