@@ -70,6 +70,9 @@ This system is primarily designed for internal hospital or clinic management rat
 - Contact number must be exactly 10 digits
 - Required field validation
 - Time slot validation
+- 
+## createdAt
+## updatedAt
 
 
 ##  CRUD Operations
@@ -97,6 +100,7 @@ This system is primarily designed for internal hospital or clinic management rat
 ---
 
 ##  Project Structure
+```
 
 MERN-DOCTORAPPOINTMENT/
 │
@@ -146,6 +150,8 @@ MERN-DOCTORAPPOINTMENT/
 │           └── WaitlistPage.jsx
 |__README.md
 
+```
+
 ## System Workflow
 
  creates appointment.
@@ -167,12 +173,14 @@ If appointment cancelled → First waiting patient gets booked automatically.
 # installation and setup
 
 ### backend
+cd backend
 npm install
 npm start
 
 ### frontend
+cd frontend
 npm install
-npm start
+npm run dev
 
 
 
