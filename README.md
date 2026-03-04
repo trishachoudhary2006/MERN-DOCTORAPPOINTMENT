@@ -173,14 +173,14 @@ If appointment cancelled → First waiting patient gets booked automatically.
 # installation and setup
 
 ### backend
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 ### frontend
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 
 
