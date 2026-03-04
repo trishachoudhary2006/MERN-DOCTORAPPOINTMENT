@@ -1,4 +1,4 @@
-#  Appointment Management System
+#  Doctor Appointment Management System
 
 A full-stack MERN (MongoDB, Express, React, Node.js) web application designed for hospitals and clinics to efficiently manage patient appointments, emergency slots, and waiting lists.
 
