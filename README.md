@@ -65,6 +65,8 @@ This system is primarily designed for internal hospital or clinic management rat
 - Filter by doctor
 - Filter by appointment date
 
+# sort by doctorName
+
 ###  Validation & Controls
 - Prevent past date booking
 - Contact number must be exactly 10 digits
