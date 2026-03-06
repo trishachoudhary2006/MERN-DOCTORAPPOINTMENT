@@ -31,7 +31,8 @@ This system is primarily designed for internal hospital or clinic management rat
 - Mongoose
 - dotenv
 
-
+### Live Demo
+https://doctorappointment-9pg8.onrender.com
 
 ##  Features
 
@@ -216,5 +217,6 @@ The following enhancements can be added in future versions of the system:
 - Emergency booking statistics
 
 
-
+### Author
+- Trisha Choudhary 
 
