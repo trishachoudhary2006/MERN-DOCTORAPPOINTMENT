@@ -36,6 +36,14 @@ https://doctorappointment-9pg8.onrender.com
 
 ##  Features
 
+###  Search & Filter
+- Search by patient name
+- Search by doctor name
+- Filter by doctor
+- Filter by appointment date
+
+# sort by doctorName
+
 ###  Appointment Management
 - Create new appointments
 - Update appointment details
@@ -60,20 +68,12 @@ https://doctorappointment-9pg8.onrender.com
 - If a booked appointment is cancelled  The first waiting patient is automatically promoted to booked
 - Maintains appointment order based on booking time
 
-###  Search & Filter
-- Search by patient name
-- Search by doctor name
-- Filter by doctor
-- Filter by appointment date
-
-# sort by doctorName
-
 ###  Validation & Controls
 - Prevent past date booking
 - Contact number must be exactly 10 digits
 - Required field validation
 - Time slot validation
-- 
+
 ## createdAt
 ## updatedAt
 
