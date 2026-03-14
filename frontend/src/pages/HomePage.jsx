@@ -66,8 +66,7 @@ const HomePage= () => {
           <input type="text" placeholder='Search by Patient or Doctor...' 
           className='input input-bordered' value={search} onChange={(e) => setSearch(e.target.value)} />
 
-          {/* <input type="text" placeholder='Filter by Doctor...' 
-          className='input input-bordered' value={doctorName} onChange={(e) => setDoctorName(e.target.value)} /> */}
+        
           <select className="select select-bordered" value={doctorName} onChange={(e) => setDoctorName(e.target.value)}>
             <option value="">All Doctors</option>
             <option value="Dr Renu">Dr Renu</option>
